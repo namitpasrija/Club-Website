@@ -1,7 +1,5 @@
 # Website of Manan, the Technical Society of YMCA University of Science and Technology
 
-[![MANAN](https://s3.amazonaws.com/aws-website-manan-y6eya/manan/manan-logo.png)](https://s3.amazonaws.com/aws-website-manan-y6eya/manan/manan-logo.png)
-
 Manan, the Technical Society of YMCA University of Science and Technology, believes in rising by the means of learning ever so more. The word Manan comes from Sanskrit and it means deep thought, contemplation, or profound reflection and that’s why each member in the society believes in practical implementation of the technology learned. We are proud of our culture wherein we share our knowledge between people to gather more perspective towards things. That’s why we organise, and also take part in tech-talks, workshops, hackathons, coding contests, gaming events and much more.
 
 By sticking to our beliefs, a couple of companies have recognised us and have started sponsoring us like; Codeshala, Hackerearth, Codechef, Hackerrank. With the help of these organisations we are able to conduct series of coding contests like ‘Code For YMCA’ which promotes coding culture in our university so that students take part in ICPC and competitions like those, ‘Code Cadet’ which encourages newbies to code more, ‘Code Relay’ which focuses on data structures and algorithms topic-by-topic. Apart from this, during our University’s annual fest we develop online games like ‘Xunbao’, ‘Hackon’.
